@@ -2,7 +2,7 @@
   "name": "example",
   "version": "1.0.0",
   "author": "Emmanuel Nyatepe",
-  "description": "My package.json",
+  "description": "A project that makes changes to a package.json file",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
